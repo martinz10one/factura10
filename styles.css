@@ -236,10 +236,15 @@ th {
   
 
 }
-@media (max-width: 300px) {
+@media (max-width: 500px) {
 
   .factura {
     padding: 20px;
     width: 100%;
   }
+  .footer{
+    flex-direcion:column;
+    align-items: center;
+    
 }
+  
